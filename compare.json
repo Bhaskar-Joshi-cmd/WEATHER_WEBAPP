@@ -1,0 +1,74 @@
+[
+  {
+    "city1": {
+      "city": "Mumbai",
+      "temperature": 32.0,
+      "condition": "Haze",
+      "humidity": 62,
+      "pressure": 1006,
+      "wind": 6.17
+    },
+    "city2": {
+      "city": "Goa",
+      "temperature": 27.2,
+      "condition": "Overcast Clouds",
+      "humidity": 86,
+      "pressure": 1008,
+      "wind": 2.7
+    }
+  },
+  {
+    "city1": {
+      "city": "Dehradun",
+      "temperature": 25.2,
+      "condition": "Clear Sky",
+      "humidity": 47,
+      "pressure": 1014,
+      "wind": 2.1
+    },
+    "city2": {
+      "city": "Haridwar",
+      "temperature": 26.4,
+      "condition": "Clear Sky",
+      "humidity": 45,
+      "pressure": 1013,
+      "wind": 2.06
+    }
+  },
+  {
+    "city1": {
+      "city": "Chandigarh",
+      "temperature": 28.0,
+      "condition": "Clear Sky",
+      "humidity": 38,
+      "pressure": 1014,
+      "wind": 1.64
+    },
+    "city2": {
+      "city": "Ludhiana",
+      "temperature": 28.1,
+      "condition": "Haze",
+      "humidity": 51,
+      "pressure": 1014,
+      "wind": 0.51
+    }
+  },
+  {
+    "city1": {
+      "city": "Uttarakhand",
+      "temperature": 24.5,
+      "condition": "Clear Sky",
+      "humidity": 29,
+      "pressure": 1014,
+      "wind": 1.47
+    },
+    "city2": {
+      "city": "Himachal Pradesh",
+      "temperature": 22.4,
+      "condition": "Clear Sky",
+      "humidity": 33,
+      "pressure": 1015,
+      "wind": 2.22
+    }
+  }
+]
